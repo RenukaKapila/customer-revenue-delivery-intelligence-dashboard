@@ -1,6 +1,6 @@
 # Customer Revenue & Delivery Intelligence Dashboard
 
-**One-line hook:** An end-to-end ecommerce analytics project showing how delivery delays, revenue patterns, product categories, and seller behavior affect customer satisfaction.
+An end-to-end ecommerce analytics project showing how delivery delays, revenue patterns, product categories, and seller behavior affect customer satisfaction.
 
 ---
 
