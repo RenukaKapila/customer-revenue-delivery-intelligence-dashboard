@@ -1,0 +1,9 @@
+model,accuracy,precision,recall,f1_score
+Random Forest KNN Imputation Tuned,0.881,0.6186,0.4882,0.5457
+Random Forest Tuned Threshold,0.8848,0.6456,0.4727,0.5457
+Random Forest,0.8577,0.5133,0.5415,0.527
+Balanced Random Forest,0.8466,0.4797,0.5602,0.5168
+LightGBM,0.8426,0.4691,0.5709,0.5151
+XGBoost,0.8409,0.4651,0.5758,0.5145
+HistGradientBoosting,0.8412,0.4656,0.572,0.5134
+Logistic Regression,0.8394,0.4599,0.5536,0.5024

@@ -1,0 +1,7 @@
+delay_sort_order,delay_bucket,total_orders,avg_review_score
+1,More than 7 Days Early,70900,4.32
+2,1 to 7 Days Early,17253,4.2
+3,Delivered On Estimated Date,16,4.31
+4,1 to 3 Days Late,2634,3.76
+5,4 to 7 Days Late,1773,2.32
+6,More than 7 Days Late,3248,1.73

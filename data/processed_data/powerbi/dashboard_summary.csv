@@ -1,0 +1,2 @@
+total_orders,paid_orders,total_payment_value,avg_order_value,avg_review_score,delivered_orders,canceled_orders,late_order_rate
+99441,99440,16008872.12,160.99,4.09,96478,625,8.11

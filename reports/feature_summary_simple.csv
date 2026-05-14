@@ -1,0 +1,31 @@
+feature,data_type,missing_count,missing_percent,values_or_range
+order_id,object,0,0.0,Example: e481f51cbdc54678b7cc49136f2d6af7 (99441 unique values)
+customer_id,object,0,0.0,Example: 9ef432eb6251297304e76186b10a928d (99441 unique values)
+order_status,object,0,0.0,"approved, canceled, created, delivered, invoiced, processing, shipped, unavailable"
+order_purchase_timestamp,object,0,0.0,2016-09-04 to 2018-10-17
+order_approved_at,object,160,0.16,2016-09-15 to 2018-09-03
+order_delivered_carrier_date,object,1783,1.79,2016-10-08 to 2018-09-11
+order_delivered_customer_date,object,2965,2.98,2016-10-11 to 2018-10-17
+order_estimated_delivery_date,object,0,0.0,2016-09-30 to 2018-11-12
+customer_city,object,0,0.0,Example: sao paulo (4119 unique values)
+customer_state,object,0,0.0,"AC, AL, AM, AP, BA, CE, DF, ES, GO, MA, MG, MS, MT, PA, PB, PE, PI, PR, RJ, RN, RO, RR, RS, SC, SE, SP, TO"
+purchase_year,int64,0,0.0,2016 to 2018
+purchase_month,int64,0,0.0,1 to 12
+delivery_days,float64,2965,2.98,0.53 to 209.63
+estimated_delivery_days,float64,0,0.0,1.65 to 155.14
+delay_days,float64,2965,2.98,-146.02 to 188.98
+is_late,float64,2965,2.98,0 to 1
+avg_review_score,float64,768,0.77,1 to 5
+review_count,float64,768,0.77,1 to 3
+review_group,object,0,0.0,"High Review, Low Review, Neutral Review, No Review"
+total_payment_value,float64,1,0.0,0.0 to 13664.08
+payment_row_count,float64,1,0.0,1 to 29
+payment_type_count,float64,1,0.0,1 to 2
+max_installments,float64,1,0.0,0 to 24
+item_row_count,float64,775,0.78,1 to 21
+unique_product_count,float64,775,0.78,1 to 8
+unique_seller_count,float64,775,0.78,1 to 5
+total_item_price,float64,775,0.78,0.85 to 13440.0
+total_freight_value,float64,775,0.78,0.0 to 1794.96
+total_order_item_value,float64,775,0.78,9.59 to 13664.08
+product_categories,object,775,0.78,Example: housewares (421 unique values)
